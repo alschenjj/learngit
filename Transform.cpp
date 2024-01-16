@@ -36,7 +36,7 @@
 
 #include "Transform.h"
 
-Transform::Transform()
+Transform::Transform()//git ceshi
 {
 	toolHandle = 0x0000;
 	status = 0x0100; // Missing by default
